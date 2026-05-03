@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+.kotlin/
+build/
+composeApp/build/
+gradle/wrapper/
+local.properties
+
